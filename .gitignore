@@ -1,0 +1,10 @@
+.launches
+.xdchelp
+*.obj
+*.aem3
+
+cscope.out
+tags
+FlashROM_StackLibrary
+TOOLS/src/
+Debug
